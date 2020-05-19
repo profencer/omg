@@ -7,3 +7,18 @@ d3ddbae - Tue May 19 12:57:52 2020 +0500 - awysocki - unknown
 1559aa4 - Tue May 19 12:55:12 2020 +0500 - awysocki - unknown
 3f7e5b4 - Tue May 19 12:50:44 2020 +0500 - awysocki - 
 c650093 - Tue May 19 12:48:33 2020 +0500 - awysocki - 
+awysocki
+bwysocki
+cwysocki
+commit 94eddcc01197789218a7761a218c5289af35e82c (HEAD -> task_22_branch_1)
+Author: awysocki <>
+Date:   Tue May 19 13:59:27 2020 +0500
+
+    task_22_commit_2
+
+commit e67642ac7324038eada01fd759165f73c6493572
+Author: awysocki <>
+Date:   Tue May 19 13:59:11 2020 +0500
+
+    task_22_commit_1
+    
