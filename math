@@ -1,3 +1,4 @@
 func mult()
 func sqrt()
 func sub()
+func sum()
